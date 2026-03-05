@@ -1,13 +1,12 @@
-# Project Structure
+# Bafu Laboratory
 
+## Project Structure
 ```
 - src/
   - main/
-    - java/
   - test/
-    - java/
+- README.md
 ```
 
-## Other Sections
-
-Content of other sections goes here...
+## Description
+This laboratory is dedicated to exploring innovative experiments and studies. The content is subject to change based on new findings and project requirements.
