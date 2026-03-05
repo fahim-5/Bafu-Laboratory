@@ -1,29 +1,32 @@
-# Bafu Laboratory
+# 🧪 Bafu Laboratory
 
-## Project Overview
+Bafu Laboratory is a simple personal web application where I organize my daily tasks, learning resources, study plans, and academic materials.
 
-Bafu Laboratory is a research project focused on advancements in biotechnology and environmental science.
+This project is built using only **HTML, CSS, JavaScript, and JSON** so it can be hosted easily using **GitHub Pages** without any backend or database.
 
-## Installation
+The goal of this project is to create a minimal and structured **online laboratory for learning, planning, and productivity.**
 
-To install the necessary tools, run:
+---
 
-```bash
-pip install -r requirements.txt
-```
+## 🚀 Features
 
-## Usage
+- 📋 Daily task tracking
+- 📚 Learning resources and study links
+- 🎯 Personal plans and goals
+- ⚡ Simple and minimal design
+- 🌐 Fully static (works with GitHub Pages)
 
-After installation, you can run the project with:
+---
 
-```bash
-python main.py
-```
+## 🧱 Tech Stack
 
-## Contributing
+- HTML
+- CSS
+- JavaScript
+- JSON (for storing data)
 
-We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
+No frameworks, no backend — just simple web technologies.
 
-## License
+---
 
-This project is licensed under the MIT License.
+## 📂 Project Structure
