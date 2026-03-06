@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "title": "Study HTML semantic tags",
+      "status": "pending"
+    },
+    {
+      "title": "Practice CSS Flexbox",
+      "status": "pending"
+    },
+    {
+      "title": "Read JavaScript Fetch API",
+      "status": "pending"
+    },
+    {
+      "title": "Work on Bafu Laboratory project",
+      "status": "in-progress"
+    }
+  ]
+}

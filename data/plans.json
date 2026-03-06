@@ -1,0 +1,20 @@
+{
+  "plans": [
+    {
+      "title": "Complete HTML, CSS, JavaScript fundamentals",
+      "category": "Learning"
+    },
+    {
+      "title": "Build Bafu Laboratory web app",
+      "category": "Project"
+    },
+    {
+      "title": "Create personal developer portfolio",
+      "category": "Project"
+    },
+    {
+      "title": "Learn Git and contribute to open source",
+      "category": "Career"
+    }
+  ]
+}
